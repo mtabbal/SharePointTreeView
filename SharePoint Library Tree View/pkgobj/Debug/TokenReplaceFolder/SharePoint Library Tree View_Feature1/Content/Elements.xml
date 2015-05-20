@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\style.min.css" Url="Content/style.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\32px.png" Url="Content/32px.png" ReplaceContent="TRUE" />
+    <File Path="Content\40px.png" Url="Content/40px.png" ReplaceContent="TRUE" />
+    <File Path="Content\throbber.gif" Url="Content/throbber.gif" ReplaceContent="TRUE" />
+    <File Path="Content\foundation-icons.css" Url="Content/foundation-icons.css" ReplaceContent="TRUE" />
+    <File Path="Content\foundation-icons.eot" Url="Content/foundation-icons.eot" ReplaceContent="TRUE" />
+    <File Path="Content\foundation-icons.ttf" Url="Content/foundation-icons.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\foundation-icons.woff" Url="Content/foundation-icons.woff" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="a7c6b4d5-13a9-4368-abff-dcbb67f065ac" Scope="Web" Title="SharePoint Library Tree View Feature1" Version="1.0.0.1">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.min.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.intellisense.js" />
+    <ElementFile Location="Scripts\jstree.min.js" />
+    <ElementFile Location="Scripts\jquery-1.11.3.min.js" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementFile Location="Content\style.min.css" />
+    <ElementFile Location="Content\32px.png" />
+    <ElementFile Location="Content\40px.png" />
+    <ElementFile Location="Content\throbber.gif" />
+    <ElementFile Location="Content\foundation-icons.css" />
+    <ElementFile Location="Content\foundation-icons.eot" />
+    <ElementFile Location="Content\foundation-icons.ttf" />
+    <ElementFile Location="Content\foundation-icons.woff" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Pages\Elements.xml" />
+        <ElementManifest Location="Scripts\Elements.xml" />
+        <ElementManifest Location="Content\Elements.xml" />
+        <ElementManifest Location="Images\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

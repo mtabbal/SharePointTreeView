@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint Library Tree View", "SharePoint Library Tree View\SharePoint Library Tree View.csproj", "{F5198198-C6A0-4078-A80F-E9F22F0E2FCB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ravinsingh.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SharePoint\u0020Library\u0020Tree\u0020View\\SharePoint\u0020Library\u0020Tree\u0020View.csproj
+		SccProjectName1 = SharePoint\u0020Library\u0020Tree\u0020View
+		SccLocalPath1 = SharePoint\u0020Library\u0020Tree\u0020View
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5198198-C6A0-4078-A80F-E9F22F0E2FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5198198-C6A0-4078-A80F-E9F22F0E2FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5198198-C6A0-4078-A80F-E9F22F0E2FCB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F5198198-C6A0-4078-A80F-E9F22F0E2FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5198198-C6A0-4078-A80F-E9F22F0E2FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5198198-C6A0-4078-A80F-E9F22F0E2FCB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

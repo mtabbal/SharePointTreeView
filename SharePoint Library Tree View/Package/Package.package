@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="cc7b7c19-e13b-47d2-88de-855c03674f60" 
+        solutionId="cc7b7c19-e13b-47d2-88de-855c03674f60" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_Library_Tree_View"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="a7c6b4d5-13a9-4368-abff-dcbb67f065ac" />
+  </features>
+</package>
